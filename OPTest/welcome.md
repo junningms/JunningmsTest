@@ -1,7 +1,8 @@
---------
-RedirectType:"RedirectPermanent"
-RedirectURL:"/target.md"
---------
+---
+RedirectType: RedirectPermanent
+RedirectURL: /target.md
+---
+
 # Welcome
 
 This is hello world page
