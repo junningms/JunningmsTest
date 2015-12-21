@@ -1,6 +1,6 @@
 ---
-RedirectType: RedirectPermanent
-RedirectURL: /target.md
+is_permanent_redirect: true
+redirect_url: /target.md
 ---
 
 # Welcome
