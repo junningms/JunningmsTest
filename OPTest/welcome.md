@@ -1,6 +1,6 @@
 ---
 is_permanent_redirect: true
-redirect_url: /target.md
+redirect_url: http://www.cnn.com
 ---
 
 # Welcome
