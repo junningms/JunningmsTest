@@ -1,6 +1,6 @@
 ---
 is_permanent_redirect: true
-redirect_url: /NewWelcome
+redirect_url: /OPTest/NewWelcome
 ---
 
 # Welcome
