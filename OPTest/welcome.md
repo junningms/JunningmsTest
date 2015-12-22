@@ -1,6 +1,6 @@
 ---
 is_permanent_redirect: true
-redirect_url: http://www.cnn.com
+redirect_url: /NewWelcome
 ---
 
 # Welcome
