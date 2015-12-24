@@ -108,7 +108,7 @@ This example has two issues:
 1.  An error explains that plain text passwords are not recommended
 2.  A warning advises against using a domain credential
 
-## PsDscAllowPlainTextPassword
+## `PsDscAllowPlainTextPassword`
 
 The first error message has a URL with documentation.
 This link explains how to encrypt passwords using a [ConfigurationData](https://msdn.microsoft.com/en-us/powershell/dsc/configdata) structure and a certificate.
