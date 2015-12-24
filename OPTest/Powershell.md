@@ -162,7 +162,7 @@ Using a local account eliminates potential exposure of domain credentials that c
 If there is a '\' or '@' in the `Username` property of the credential, then DSC will treat it as a domain account.
 An exception is made for "localhost", "127.0.0.1", and "::1" in the domain portion of the user name.
 
-## PSDscAllowDomainUser
+## `PSDscAllowDomainUser`
 
 In the DSC `Group` resource example above, querying an Active Directory domain *requires* the use of a domain account.
 In this case add the `PSDscAllowDomainUser` property to the `ConfigurationData` block as follows:
